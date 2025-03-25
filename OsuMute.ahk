@@ -5,7 +5,6 @@ SendMode Input
 SetBatchLines -1
 SetWorkingDir %A_ScriptDir%
 
-; ---------- OsuMute Logic ----------
 osuMuted := false
 osuProcessName := "osu!.exe"
 osuPreviousState := false
@@ -48,7 +47,6 @@ CheckOsuActive() {
     }
 }
 
-; ---------- AppVol Functions ----------
 AppVol(Target := "A", Level := 0) {
     if (Target ~= "^[-+]?\d+$") {
         Level := Target
