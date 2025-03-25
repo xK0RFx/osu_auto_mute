@@ -1,4 +1,4 @@
-#ENG
+# ENG
 
 - OsuMute.ahk - Automatically mutes osu! when switching to another window and unmutes it when returning to the game.
 
@@ -21,7 +21,7 @@
 Note: Run only one script at a time to avoid conflicts.
 
 ---
-#RUS
+# RUS
 
 - OsuMute.ahk - Автоматически отключает звук osu! при переключении на другое окно и включает его обратно при возврате в игру.
 
