@@ -1,5 +1,8 @@
 #Requires AutoHotkey v1.1
 
+#SingleInstance Force
+#Persistent
+
 #Include AppVol.ahk
 
 osuMuted := false
