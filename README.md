@@ -14,9 +14,7 @@
 2. Choose and run the script you need:
    - `OsuMute.ahk` - if you want to mute only osu! when switching to other windows
    - `MuteOtherApp.ahk` - if you want to mute all other applications while playing osu!
-
-Note: You can run each script independently according to your needs.
-
+   
 ---
 
 # RUS
@@ -35,5 +33,3 @@ Note: You can run each script independently according to your needs.
 2. Выберите и запустите нужный скрипт:
    - `OsuMute.ahk` - если хотите отключать звук только в osu! при переключении на другие окна
    - `MuteOtherApp.ahk` - если хотите отключать звук всех остальных приложений во время игры в osu!
-
-Примечание: Каждый скрипт можно запускать независимо в соответствии с вашими потребностями.
